@@ -253,6 +253,5 @@ collected information without any consent required by law.
 ## 13. Contact
 
 **Card Bounties / Northland AI**  
-Operated by Gary Gallagher in Minnesota, United States  
 Email: **support@northlandai.com**  
 Privacy Policy URL: **https://northlandai.com/cardbounties-privacy**
